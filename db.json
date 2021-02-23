@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "23.02.2021",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Relax more",
+      "day": "24.02.2021",
+      "reminder": true
+    },
+    {
+      "text": "Relox",
+      "day": "12.01.1976",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "relax more 2",
+      "day": "13.01.2021",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
